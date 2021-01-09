@@ -1,0 +1,17 @@
+.jumbotron {
+  margin-bottom: 0;
+  background-color: rgb(98, 189, 224);
+}
+
+.head-title {
+  margin-bottom: 30px;
+  color: white;
+  background-color: rgb(82, 111, 143);
+  font-family: "Mansalva", cursive;
+}
+
+.head-display {
+  font-size: 3.5rem;
+  font-weight: 300;
+  line-height: 1.5;
+}
